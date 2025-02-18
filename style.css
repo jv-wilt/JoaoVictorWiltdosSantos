@@ -1,14 +1,14 @@
 .cabeçalho {
-    background-color: black;
-    color: red;
+    background-color: aliceblue;
+    color: black;
     display: flex;
     padding: 24px 0;
 }
 
 .section1 {
-    background-color: black;
+    background-color: red;
 }
 
 .section2 {
-    background-color: black;
+    background-color: red ;
 }
